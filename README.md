@@ -1,6 +1,6 @@
 <!--                                                        # Ulugbek Muhammadjonov  
 - 👋 Hi, I’m Ulugbek Muhammadjonov 
-- 👀 I’m interested in Php,MySql,JS, CSS/SASS and HTML 
+- 👀 I’m interested in PHP, MVC, YIi2,JavaScript, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
 - 🌱 I’m currently learning Laravel 
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me muhammadjonovulugbek98@gmail.com  -->
@@ -26,7 +26,7 @@
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ulugbek-Muhammadjonov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Ulugbek Muhammadjonov" /></div>
 <!-- <div align="center"   >   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div> -->
