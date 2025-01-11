@@ -1,9 +1,8 @@
-<!--                                                        # Ulugbek Muhammadjonov  
-- 👋 Hi, I’m Ulugbek Muhammadjonov 
-- 👀 I’m interested in PHP, MVC, YIi2,JavaScript, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
-- 🌱 I’m currently learning Laravel 
+<!--                                                        # Ramziddin Usmonov
+- 👋 Hi, I’m Ramziddin Usmonov
+- 👀 I’m interested in HTML, CSS SCSS SASS Tailwint JavaScript Vue.js Nuxt.js.
 - 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me muhammadjonovulugbek98@gmail.com  -->
+- 📫 How to reach me ramzicloud123@gmail.com  -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
